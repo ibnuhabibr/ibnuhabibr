@@ -59,11 +59,11 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ibnuhabibr&show_icons=true&locale=id&theme=tokyonight&count_private=true&hide_border=true" alt="Statistik GitHub Ibnu" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ibnuhabibr&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Statistik GitHub Ibnu" />
   </a>
   <br><br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnuhabibr&layout=compact&locale=id&theme=tokyonight&hide_border=true" alt="Bahasa Teratas" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnuhabibr&layout=compact&theme=tokyonight&hide_border=true" alt="Bahasa Teratas" />
   </a>
 </p>
 
