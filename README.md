@@ -5,9 +5,13 @@
   A Mahasiswa Teknik Informatika Politeknik Elektronika Negeri Surabaya (PENS) based in Gresik, Indonesia
 </h3>
 
+' di bawah ini dan ganti 'LINK-KE-BANNER-LO.png'
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/ibnuhabibr/ibnuhabibr/main/banner_github.png" alt="Header Banner Ibnu" width="90%">
 </p>
+===================================================================
+-->
 
 <p align="left">
   Saya seorang mahasiswa dan <i>developer</i> yang memiliki gairah untuk memecahkan masalah dan membangun solusi digital yang bermanfaat. Saya percaya pada kekuatan teknologi untuk menciptakan masa depan yang lebih baik.
@@ -21,15 +25,15 @@
 
 <p align="center">
   <a href="https://github.com/ibnuhabibr/Temuin">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ibnuhabibr&repo=Temuin&theme=solarized_light" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ibnuhabibr&repo=Temuin&theme=tokyonight" />
   </a>
   <a href="https://github.com/ibnuhabibr/pilahpintar">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ibnuhabibr&repo=pilahpintar&theme=solarized_light" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ibnuhabibr&repo=pilahpintar&theme=tokyonight" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/ibnuhabibr/temantugas-final">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ibnuhabibr&repo=temantugas-final&theme=solarized_light" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ibnuhabibr&repo=temantugas-final&theme=tokyonight" />
   </a>
 </p>
 
@@ -59,16 +63,16 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ibnuhabibr&show_icons=true&locale=id&theme=solarized_light&count_private=true&hide_border=true" alt="Statistik GitHub Ibnu" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ibnuhabibr&show_icons=true&locale=id&theme=tokyonight&count_private=true&hide_border=true" alt="Statistik GitHub Ibnu" />
   </a>
   <br><br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnuhabibr&layout=compact&locale=id&theme=solarized_light&hide_border=true" alt="Bahasa Teratas" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnuhabibr&layout=compact&locale=id&theme=tokyonight&hide_border=true" alt="Bahasa Teratas" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibnuhabibr&theme=solarized_light&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibnuhabibr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
