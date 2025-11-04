@@ -25,12 +25,12 @@
   <a href="https://github.com/ibnuhabibr/Temuin">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ibnuhabibr&repo=Temuin&theme=tokyonight" />
   </a>
-  <a href="https://github.com/ibnuhabibr/pilahpintar">
+  <a href="https://github.com/ibnuhabibr/snbtku-lrv">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ibnuhabibr&repo=pilahpintar&theme=tokyonight" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/ibnuhabibr/snbtku-lrv">
+  <a href="https://github.com/ibnuhabibr/pilahpintar">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ibnuhabibr&repo=temantugas-final&theme=tokyonight" />
   </a>
 </p>
