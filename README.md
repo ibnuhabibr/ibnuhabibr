@@ -5,8 +5,6 @@
   A Mahasiswa Teknik Informatika Politeknik Elektronika Negeri Surabaya (PENS) based in Gresik, Indonesia
 </h3>
 
-' di bawah ini dan ganti 'LINK-KE-BANNER-LO.png'
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/ibnuhabibr/ibnuhabibr/main/banner_github.png" alt="Header Banner Ibnu" width="90%">
 </p>
