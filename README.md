@@ -8,8 +8,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ibnuhabibr/ibnuhabibr/main/banner_github.png" alt="Header Banner Ibnu" width="90%">
 </p>
-===================================================================
--->
 
 <p align="left">
   Saya seorang mahasiswa dan <i>developer</i> yang memiliki gairah untuk memecahkan masalah dan membangun solusi digital yang bermanfaat. Saya percaya pada kekuatan teknologi untuk menciptakan masa depan yang lebih baik.
@@ -26,12 +24,12 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ibnuhabibr&repo=Temuin&theme=tokyonight" />
   </a>
   <a href="https://github.com/ibnuhabibr/snbtku-lrv">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ibnuhabibr&repo=pilahpintar&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ibnuhabibr&repo=snbtku-lrv&theme=tokyonight" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/ibnuhabibr/pilahpintar">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ibnuhabibr&repo=temantugas-final&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ibnuhabibr&repo=pilahpintar&theme=tokyonight" />
   </a>
 </p>
 
@@ -70,7 +68,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibnuhabibr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ibnuhabibr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
