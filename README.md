@@ -21,15 +21,15 @@
 
 <p align="center">
   <a href="https://github.com/ibnuhabibr/Temuin">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ibnuhabibr&repo=Temuin&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ibnuhabibr&repo=Temuin&theme=dracula" />
   </a>
   <a href="https://github.com/ibnuhabibr/snbtku-lrv">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ibnuhabibr&repo=snbtku-lrv&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ibnuhabibr&repo=snbtku-lrv&theme=dracula" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/ibnuhabibr/pilahpintar">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ibnuhabibr&repo=pilahpintar&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ibnuhabibr&repo=pilahpintar&theme=dracula" />
   </a>
 </p>
 
@@ -59,16 +59,16 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ibnuhabibr&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Statistik GitHub Ibnu" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ibnuhabibr&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="Statistik GitHub Ibnu" />
   </a>
   <br><br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnuhabibr&layout=compact&theme=tokyonight&hide_border=true" alt="Bahasa Teratas" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnuhabibr&layout=compact&theme=dracula&hide_border=true" alt="Bahasa Teratas" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-production.vercel.app/?user=ibnuhabibr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-production.vercel.app/?user=ibnuhabibr&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
